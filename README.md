@@ -39,6 +39,6 @@ No third-party packages are required for core functionality.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/netforge.git
+git clone https://github.com/R00tApt-hostile/netforge.git
 cd netforge
 python netforge.py
